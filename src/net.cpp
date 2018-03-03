@@ -1194,7 +1194,7 @@ void CConnman::ThreadSocketHandler()
 			int spvNodes = 0;
 			int inboundNodes = 0;
 			int outboundNodes = 0;
-			int ipv4Nodes = 0; nTotalBytesRecv += bytes;
+			int ipv4Nodes = 0;
 			int ipv6Nodes = 0;
 			int torNodes = 0;
 			mapMsgCmdSize mapRecvBytesMsgStats;
